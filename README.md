@@ -1,5 +1,7 @@
 # Ton Dev Study Python - TON lessons
 
+TON-Python developers chat: https://t.me/pythonnton
+
 ## Useful repos
 
 * [pytoniq](https://github.com/yungwine/pytoniq) - Python SDK for TON with native ADNL impl
