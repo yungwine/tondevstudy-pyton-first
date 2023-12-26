@@ -160,3 +160,4 @@ cython_debug/
 .idea/
 /secret.py
 /lesson_1/test.py
+/lesson_2/test.py
